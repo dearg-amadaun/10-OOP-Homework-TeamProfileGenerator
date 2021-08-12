@@ -22,7 +22,7 @@ class Employee {
         return this.id;
     }
     getEmail() {
-        return this.id;
+        return this.email;
     }
     getRole() {
         return 'Employee';
