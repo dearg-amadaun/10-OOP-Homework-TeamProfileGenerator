@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629414931446" clover="3.2.0">
-  <project timestamp="1629414931447" name="All files">
+<coverage generated="1629495777262" clover="3.2.0">
+  <project timestamp="1629495777262" name="All files">
     <metrics statements="113" coveredstatements="113" conditionals="14" coveredconditionals="14" methods="14" coveredmethods="14" elements="141" coveredelements="141" complexity="0" loc="113" ncloc="113" packages="1" files="4" classes="4"/>
     <file name="Employee.js" path="C:\Users\brott\developement\10-OOP-Homework-TeamProfileGenerator\md\lib\Employee.js">
       <metrics statements="31" coveredstatements="31" conditionals="5" coveredconditionals="5" methods="5" coveredmethods="5"/>
