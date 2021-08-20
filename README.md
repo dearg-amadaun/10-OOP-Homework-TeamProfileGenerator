@@ -38,7 +38,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Project Links
 Below are links to the git repository, and a video demonstration of the application. 
-[![Landing Page](md\Assets\myproject.jpg)] 
+![Screenshot](md\Assets\myproject.jpg?raw=true "Team Profile Generator")
 
 * [Github](https://github.com/dearg-amadaun/11-Express-Homework-Note-Taker)
 * [Video Demonstration](https://drive.google.com/file/d/11NxdmW9mHylIjRbQPuM80ccw55T0k_26/view)
