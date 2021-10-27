@@ -1,4 +1,4 @@
-# 10-OOP-Homework-TeamProfileGenerator
+# 10-OOP-TeamProfileGenerator
 Unit 10 Team Profile generator Homework
 
 The goal of this homework was to build a team generator from scratch using javascript, node, inquirer, and jest for testing. After being launched the program works buy gathering information from the user using Inquirer prompts, then automatically builds an html web page using the inputted information.
