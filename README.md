@@ -1,14 +1,12 @@
-# 10-OOP-TeamProfileGenerator
-Unit 10 Team Profile generator Homework
-
-The goal of this homework was to build a team generator from scratch using javascript, node, inquirer, and jest for testing. After being launched the program works buy gathering information from the user using Inquirer prompts, then automatically builds an html web page using the inputted information.
+# Team Profile Generator
+A project team generator built from scratch using javascript, node, inquirer, and jest for testing. After being launched the program works buy gathering information from the user using Inquirer prompts, then automatically builds an html web page using the inputted information.
 
 ## Installation and Use
 After pulling the repository to a file on their local machine, users can launch the program through a code terminal by navigating to 10-OOP-Homework-TeamProfileGenerator\md and running the command "node index.js".
 
-They can also run the program through the terminal in VS Code by opening the code  terminal and running the command "node index.js".
+User can also run the program through the terminal in VS Code by opening the code terminal and running the command "node index.js".
 
-## User Story and Acceptance Criteria
+## User Story
 
 ```md
 AS A manager
